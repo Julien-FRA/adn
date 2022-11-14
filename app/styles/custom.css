@@ -1,0 +1,15 @@
+.anime-card {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card {
+    margin: 20px 0;
+}
+
+.img-anime {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
